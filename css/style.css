@@ -201,6 +201,39 @@ height: 150px;
 .r1{
     width: 85%;
     margin: auto;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+.da-block{
+    width: 240px;
+    height: 198px;
+    border-radius: 10px;
+}
+.b{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex: 5%;
+}
+.foot{
+    margin-top: 20vh;
+}
+
+.t1{
+    width: 85%;
+    margin: auto;
+    color: white;
+}
+.f{
+    width: 22%;
+    height: 15%;
+    position: relative;
+}
+
+.ss{
+    display: flex;
+}
+.ses{
+    position: absolute;
 }
