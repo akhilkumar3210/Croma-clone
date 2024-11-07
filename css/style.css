@@ -225,15 +225,59 @@ height: 150px;
     margin: auto;
     color: white;
 }
-.f{
-    width: 22%;
-    height: 15%;
+.srch{
     position: relative;
+    width: 22.5%;
+    height: 50px;
+}
+
+.ses{
+    position: absolute;
+    left: 274px;
+    top: 20px;
+    border-radius: 10px;
 }
 
 .ss{
-    display: flex;
+    width: 100%;
 }
-.ses{
-    position: absolute;
+
+.icon{
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+    margin-top: 2vh;
+}
+
+.cro{
+    width: 20%;
+    margin-top: 6vh;
+}
+
+.pp ul{
+    color: white;
+    list-style-type: none;
+}
+.pp{
+    color: white;
+}
+
+.pp1 ul{
+    color: white;
+    list-style-type: none;
+    margin-top: 5vh;
+}
+.ft1{
+    display: flex;
+    width: 20%;
+
+}
+
+.foot{
+    display: flex;
+    width: 100%;
+}
+
+.ft{
+    width: 100%;
 }
